@@ -1,0 +1,21 @@
+{
+  "name": "nodeworker",
+  "version": "1.0.0",
+  "description": "To monitor and capture the log files using node JS and store it in Influxdb to",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "always-tail": "^0.2.0",
+    "carrier": "^0.3.0",
+    "datejs": "^1.0.0-rc3",
+    "influx": "^4.2.0",
+    "influxdb-nodejs": "^1.0.3",
+    "line-reader": "^0.4.0",
+    "linereader": "^1.0.1",
+    "tail": "^1.1.0"
+  }
+}
