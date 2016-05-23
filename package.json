@@ -9,13 +9,8 @@
   "author": "Prabu Dass",
   "license": "ISC",
   "dependencies": {
-    "always-tail": "^0.2.0",
-    "carrier": "^0.3.0",
     "datejs": "^1.0.0-rc3",
     "influx": "^4.2.0",
-    "influxdb-nodejs": "^1.0.3",
-    "line-reader": "^0.4.0",
-    "linereader": "^1.0.1",
     "tail": "^1.1.0"
   }
 }
